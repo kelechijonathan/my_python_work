@@ -1,6 +1,6 @@
 # market_tracker
 
-items = ['Fan', 'refrigerator', 'TV', 'Micro-wave', 'Blender']
+items = ['Fan', 'Refrigerator', 'TV', 'Micro-wave', 'Blender']
 
 prices = [5000, 70000, 50000, 20000, 4000]
 
